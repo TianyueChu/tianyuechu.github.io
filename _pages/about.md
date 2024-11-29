@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Welcome to my webpage!  I am Tianyue Chu, a final-year PhD candidate at Universidad Carlos III de Madrid (UC3M) and a Research Assistant at the IMDEA Networks Institute, Spain.
-I have been fortunate to work under the guidance of Dr. Nikos Laoutaris, whose mentorship has been instrumental in shaping my research directions.
+I have been fortunate to work under the guidance of Dr. [Nikos Laoutaris](https://laoutaris.info/), whose mentorship has been instrumental in shaping my research directions.
 
 My research focuses on the intersection of machine learning and distributed learning, with a particular focus on addressing the privacy and security implications in these domains. 
 My research goal is to provide individuals with better control over their privacy, and protection from digital threats. 
