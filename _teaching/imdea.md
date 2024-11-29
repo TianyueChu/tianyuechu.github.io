@@ -3,9 +3,9 @@ title: "IMDEA Networks Institute"
 collection: teaching
 type: "Research Assistant"
 permalink: #/teaching/2014-spring-teaching-1
-venue: "NIKOLAOS LAOUTARIS"
+venue: "Madrid, Spain"
 date: Oct. 2020-Present
-location: "Madrid, Spain"
+location: # "Madrid, Spain"
 ---
 
 - Apply Federated Learning in centralised training tasks, ensuring maintained accuracy.

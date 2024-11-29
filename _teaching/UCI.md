@@ -3,9 +3,9 @@ title: "University of California, Irvine"
 collection: teaching
 type: "Visiting Researcher"
 permalink: #/teaching/2015-spring-teaching-1
-venue: "ATHINA MARKOPOULOU"
+venue: "California, USA"
 date: Sep. 2022-Jan. 2023
-location: "California, USA"
+location: #"California, USA"
 ---
 
 - Provide information-theoretic upper bounds on the amount of information that the local model update reveals about any single user's dataset in a federated learning system.
