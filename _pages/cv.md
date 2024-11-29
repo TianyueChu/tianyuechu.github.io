@@ -45,15 +45,18 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Scientific Service
 ======
-* **TPC member**: IEEE SECON 2023, AISCC NDSS 2024, IEEE SECON 2024, ACM S3 MobiCom 2024, FLUID AAAI 2025
-* **Reviewer**: IEEE Transactions on Information Forensics and Security, ACM Transactions on Modeling and Performance Evaluation of Computing Systems
+**TPC member**
+ - FLUID AAAI 2025
+ - ACM S3 MobiCom 2024
+ - IEEE SECON 2024
+ - AISCC NDSS 2024
+ - IEEE SECON 2023
+
+**Reviewer**: 
+ - IEEE Transactions on Information Forensics and Security
+ - ACM Transactions on Modeling and Performance Evaluation of Computing Systems
 
