@@ -16,11 +16,19 @@ I want to work towards a future where digital services are inherently designed w
 
 Updates
 ======
+**Nov 2024**  Served as a TPC member for FLUID AAAI 2025
+
 **Oct 2024**   Our work on quantifying and preserving privacy in pruned federated learning has been accepted for publication in the ACM Transactions on Modeling and Performance Evaluation of Computing Systems.
+
+**Oct 2024**   Served as a TPC member for IEEE SECON 2024
 
 **Sep 2024**   Awarded First Prize in the DataBri-X Datathon 2024
 
 **Aug 2024**   Served as a TPC member for ACM S3 2024 Workshop, held in conjunction with ACM MobiCom 2024.
+
+**Jul 2024**   Presented our work on information-theoretic bounds on privacy leakage at the ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning, Athens, Greece.
+
+**Jun 2024**   Present our work on FedQV: Leveraging Quadratic Voting in Federated Learning at the ACM SIGMETRICS 2024 Conference, at Venice, Italy.
 
 
 [Last updated: Nov 2024]
