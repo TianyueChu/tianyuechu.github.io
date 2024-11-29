@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Telematic Engineering, Universidad Carlos III de Madrid (UC3M), 2025(expected)
+* M.Sc. in Statistics, Shenzhen University, 2017
+* B.Sc. in Mathematics and Applied Mathematics, Shenzhen University, 2014
+* B.E. in Finance, Shenzhen University, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct.2020-Present: Research Assistant
+  * IMDEA Networks Institute
+  * Research on Secure and Resilient Federated Learning
+  * Supervisor: Nikolaos Laoutaris
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep.2022-Jan.2023: Visiting Researcher
+  * University of California, Irvine
+  * Research on Privacy-preserving Federated Learning
+  * Supervisor: Athina Markopoulou
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jul.2017-Aug.2020: Research Assistant
+  * SIAT, Chinese Academy of Sciences 
+  * Research on Wearable Intelligent Medical Health Monitoring Technology
+  * Supervisor: Guoru Zhao
+
 
 Publications
 ======
@@ -59,6 +52,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Scientific Service
 ======
-* Currently signed in to 43 different slack teams
+* **TPC member**: IEEE SECON 2023, AISCC NDSS 2024, IEEE SECON 2024, ACM S3 MobiCom 2024, FLUID AAAI 2025
+* **Reviewer**: IEEE Transactions on Information Forensics and Security, ACM Transactions on Modeling and Performance Evaluation of Computing Systems
+
