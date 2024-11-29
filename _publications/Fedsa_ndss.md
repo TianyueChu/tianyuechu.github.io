@@ -12,4 +12,3 @@ citation: 'Chu, Tianyue, et al. &quot;Strengthening Privacy in Robust Federated 
 ---
 In this work, we show how to implement SA on top of FEDQV in order to address both poisoning and privacy attacks. We mount several privacy attacks against FEDQV and demonstrate the effectiveness of SA in countering them.
 
-Recommended citation: Chu, Tianyue, et al. "Strengthening Privacy in Robust Federated Learning through Secure Aggregation." <i>Workshop on AI Systems with Confidential Computing (AISCC) in conjunction with NDSS</i>. San Diego, California, USA, February 26, 2024.
