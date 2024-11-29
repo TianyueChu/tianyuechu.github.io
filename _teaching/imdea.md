@@ -3,7 +3,7 @@ title: "IMDEA Networks Institute"
 collection: teaching
 type: "RESEARCH ASSISTANT"
 permalink: #/teaching/2014-spring-teaching-1
-venue: #"University 1, Department"
+venue: "NIKOLAOS LAOUTARIS"
 date: Oct. 2020-Present
 location: "Madrid, Spain"
 ---

@@ -3,7 +3,7 @@ title: "University of California, Irvine"
 collection: teaching
 type: "Visiting Researcher"
 permalink: #/teaching/2015-spring-teaching-1
-venue: #"University 1, Department"
+venue: "ATHINA MARKOPOULOU"
 date: Sep. 2022-Jan. 2023
 location: "California, USA"
 ---
