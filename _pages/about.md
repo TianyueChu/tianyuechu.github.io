@@ -14,8 +14,6 @@ My research goal is to provide individuals with better control over their privac
 I want to work towards a future where digital services are inherently designed with user privacy and security at the forefront. 
 
 
-[Last updated: Nov 2024]
-
 Updates
 ======
 **Oct 2024**   Our work on quantifying and preserving privacy in pruned federated learning has been accepted for publication in the ACM Transactions on Modeling and Performance Evaluation of Computing Systems.
@@ -23,3 +21,6 @@ Updates
 **Sep 2024**   Awarded First Prize in the DataBri-X Datathon 2024
 
 **Aug 2024**   Served as a TPC member for ACM S3 2024 Workshop, held in conjunction with ACM MobiCom 2024.
+
+
+[Last updated: Nov 2024]
