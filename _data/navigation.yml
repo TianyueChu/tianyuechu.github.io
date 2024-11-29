@@ -12,11 +12,11 @@ main:
     url: /teaching/
 
 
-  - title: "Miscellaneous"
+  - title: "Presentations and Talks"
     url: /talks/    
 
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Miscellaneous"
+    url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
