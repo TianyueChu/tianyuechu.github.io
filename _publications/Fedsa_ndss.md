@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Privacy in Robust Federated Learning through Secure Aggregation"
 collection: publications
-category: conferences
+category: workshops
 permalink: 'https://www.ndss-symposium.org/ndss-paper/auto-draft-536/'
 excerpt: 'In this work, we show how to implement SA on top of FEDQV in order to address both poisoning and privacy attacks. We mount several privacy attacks against FEDQV and demonstrate the effectiveness of SA in countering them.'
 date: 2024-02-26
