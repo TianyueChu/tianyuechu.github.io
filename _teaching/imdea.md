@@ -1,7 +1,7 @@
 ---
 title: "IMDEA Networks Institute"
 collection: teaching
-type: "RESEARCH ASSISTANT"
+type: "Research Assistant"
 permalink: #/teaching/2014-spring-teaching-1
 venue: "NIKOLAOS LAOUTARIS"
 date: Oct. 2020-Present
