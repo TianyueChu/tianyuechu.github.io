@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Privacy in Robust Federated Learning through Secure Aggregation"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: "https://www.ndss-symposium.org/ndss-program/aiscc-2024/"
 venue: "Workshop on AI Systems with Confidential Computing (AISCC) in conjunction with NDSS"
 date: 2024-02-16
