@@ -1,15 +1,15 @@
 ---
-title: "Information-Theoretical Bounds on Privacy Leakage in Pruned Federated Learning"
+title: "FedQV: Leveraging Quadratic Voting in Federated Learning"
 collection: talks
 type: "presentation"
-permalink: "https://www.ndss-symposium.org/ndss-program/aiscc-2024/"
-venue: "ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning"
-date: 2024-07-07
-location: "Athens, Greece"
+permalink: "https://networks.imdea.org/whatsnew/events-agenda/fedqv-leveraging-quadratic-voting-in-federated-learning/"
+venue: "IMDEA Networks Institute & ACM SIGMETRICS 2024"
+date: 2024-06-13 & 2024-09-25
+location: "Madrid, Spain & Venice, Italy"
 ---
 
-Presented our work on "Information-Theoretical Bounds on Privacy Leakage in Pruned Federated Learning" at the ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning.
+Presented our work on "FedQV: Leveraging Quadratic Voting in Federated Learning" at the IMDEA Networks Institute.
 
-[More information here](https://sites.google.com/view/it-tml2024/schedule?authuser=0)
+[More information here](https://networks.imdea.org/whatsnew/events-agenda/fedqv-leveraging-quadratic-voting-in-federated-learning/)
 
 
