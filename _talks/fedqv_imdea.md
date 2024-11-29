@@ -1,15 +1,15 @@
 ---
-title: "Strengthening Privacy in Robust Federated Learning through Secure Aggregation"
+title: "Information-Theoretical Bounds on Privacy Leakage in Pruned Federated Learning"
 collection: talks
 type: "presentation"
 permalink: "https://www.ndss-symposium.org/ndss-program/aiscc-2024/"
-venue: "Workshop on Artificial Intelligence System with Confidential Computing (AISCC) 2024"
-date: 2024-02-26
-location: "California, USA"
+venue: "ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning"
+date: 2024-07-07
+location: "Athens, Greece"
 ---
 
-Presented our work on "Strengthening Privacy in Robust Federated Learning through Secure Aggregation" at the Workshop on Artificial Intelligence System with Confidential Computing (AISCC) in conjunction with NDSS 2024.
+Presented our work on "Information-Theoretical Bounds on Privacy Leakage in Pruned Federated Learning" at the ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning.
 
-[More information here](https://www.ndss-symposium.org/ndss-program/aiscc-2024/)
+[More information here](https://sites.google.com/view/it-tml2024/schedule?authuser=0)
 
 

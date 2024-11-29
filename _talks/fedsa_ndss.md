@@ -1,11 +1,13 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Strengthening Privacy in Robust Federated Learning through Secure Aggregation"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+permalink: "https://www.ndss-symposium.org/ndss-program/aiscc-2024/"
+venue: "Workshop on AI Systems with Confidential Computing (AISCC) in conjunction with NDSS"
+date: 2024-02-16
+location: "San Diego, California"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+Presented our work on "Strengthening Privacy in Robust Federated Learning through Secure Aggregation" at the Workshop on AI Systems with Confidential Computing (AISCC) in conjunction with NDSS 2024. 
+[More information here](https://www.ndss-symposium.org/ndss-program/aiscc-2024/)
+

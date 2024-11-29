@@ -1,13 +1,13 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Information-Theoretical Bounds on Privacy Leakage in Pruned Federated Learning"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "presentation"
+permalink: "https://sites.google.com/view/it-tml2024/schedule?authuser=0"
+venue: "ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning"
+date: 2024-07-07
+location: "Athens, Greece"
 ---
 
-[More information here](http://exampleurl.com)
+Presented our work on "Information-Theoretical Bounds on Privacy Leakage in Pruned Federated Learning" at the ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning.
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+[More information here](https://sites.google.com/view/it-tml2024/schedule?authuser=0)
