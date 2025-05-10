@@ -30,7 +30,8 @@ Updates
 
 **Jul 2024**   Presented our work on information-theoretic bounds on privacy leakage at the ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning, Athens, Greece.
 
-**Jun 2024**   Present our work on FedQV: Leveraging Quadratic Voting in Federated Learning at the ACM SIGMETRICS 2024 Conference, at Venice, Italy.
+**Jun 2024**   Present our work on FedQV: Leveraging Quadratic Voting in Federated Learning at the ACM SIGMETRICS 2024 Conference, at Venice, Italy
 
+**May 2024**   Awarded an ACM travel grant ($900) to attend ACM SIGMETRICS/IFIP PERFORMANCE 2024
 
 [Last updated: Mar 2025]
