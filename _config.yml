@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Tianyue Chu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Researcher at IMDEA Networks Institute and UC3M"
-  location         : "Madrid, Spain"
-  employer         : "IMDEA Networks Institute"
-  uri              : "https://networks.imdea.org/team/imdea-networks-team/people/tianyue-chu/"
+  bio              : "Researcher at Telefonica Research"
+  location         : "Barcelona, Spain"
+  employer         : "Telefonica Innovation Digital"
+  uri              : # "https://networks.imdea.org/team/imdea-networks-team/people/tianyue-chu/"
   email            : "tianyue.chu@telefonica.com"
 
   # Academic websites
