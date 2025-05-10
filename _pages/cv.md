@@ -18,7 +18,12 @@ Education
 
 Work experience
 ======
-* Oct.2020-Present: Research Assistant
+* Mar.2025-Present: Researcher
+  * Telefonica Research
+  * Research on Distributed, Verified, Reliable, Secure, Ethical and Optimization in Networks
+
+
+* Oct.2020-Mar.2025: Research Assistant
   * IMDEA Networks Institute
   * Research on Secure and Resilient Federated Learning
   * Supervisor: Nikolaos Laoutaris
